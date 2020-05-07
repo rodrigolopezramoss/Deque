@@ -11,6 +11,8 @@ Métodos:
 - peekFirst( ): Retorna el elemento del inicio de la Deque.
 - peekLast( ): Retorna el elemento del final de la Deque.
 
+Así se declara un Deque:
+
 Las pilas, stacks en inglés, tienen sus propios métodos dado que son declarables.
 
 Métodos Stack:
