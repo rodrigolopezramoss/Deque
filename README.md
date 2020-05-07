@@ -21,6 +21,13 @@ Y luego declaramos:
 
 ![alt text](https://github.com/rodrigolopezramoss/Deque/blob/master/imagenes/2-declarar_Deque.png)
 
+
+### Vamos a añadir elementos a nuestros Deque:
+
+![alt text](https://github.com/rodrigolopezramoss/Deque/blob/master/imagenes/5-adici%C3%B3n_Deque.png)
+
+
+
 Las pilas, stacks en inglés, tienen sus propios métodos dado que son declarables.
 
 ### Métodos Stack:
