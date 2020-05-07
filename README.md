@@ -14,9 +14,11 @@ Al funcionar como una pila LIFO (Last In First Out) solo se pueden insertar y el
 ### Así se declara un Deque:
 
 Primero importamos de util:
+
 ![alt text](https://github.com/rodrigolopezramoss/Deque/blob/master/imagenes/1-importar_Deque.png)
 
 Y luego declaramos:
+
 ![alt text](https://github.com/rodrigolopezramoss/Deque/blob/master/imagenes/2-declarar_Deque.png)
 
 Las pilas, stacks en inglés, tienen sus propios métodos dado que son declarables.
