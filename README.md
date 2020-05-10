@@ -28,7 +28,7 @@ Y luego declaramos:
 
 
 
-Las pilas, stacks en inglés, tienen sus propios métodos dado que son declarables.
+Las pilas, stacks en inglés, tienen sus propios métodos.
 
 ### Métodos Stack:
 - push(data): Inserta el valor data en el tope de la Pila.
